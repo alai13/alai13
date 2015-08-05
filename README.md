@@ -1,5 +1,4 @@
 # alai13
 config
 
-
-test2
+test

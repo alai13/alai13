@@ -2,7 +2,7 @@
 #*~
 #.ssh/
 
-
+*
 !.gitignore
 !.vimrc
 

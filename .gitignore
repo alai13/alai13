@@ -5,6 +5,7 @@
 *
 !.gitignore
 !.vimrc
+!.vim/
 !README.md
 
 20150805_174916
